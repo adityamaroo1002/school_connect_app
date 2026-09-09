@@ -1,0 +1,16 @@
+//
+//  SchoolConnectAppTests.swift
+//  SchoolConnectAppTests
+//
+//  Created by Aditya Maroo on 09/09/2026.
+//
+
+import Testing
+
+struct SchoolConnectAppTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}
